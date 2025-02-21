@@ -1,3 +1,6 @@
 # favorite food
 
-apple111
+<<<<<<< HEAD
+aaaaaa
+=======
+>>>>>>> main
